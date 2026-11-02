@@ -60,3 +60,4 @@ character-worldcup/
    ```
 3. 저장소 **Settings → Pages**에서 Source를 `Deploy from a branch`, Branch를 `main` / `/ (root)`로 지정하고 저장합니다.
 4. 잠시 후 `https://<사용자명>.github.io/<저장소명>/` 주소로 접속할 수 있습니다.
+
